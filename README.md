@@ -16,7 +16,8 @@ I implemented different features: Player Controller Script, UI interfaces, Sound
 
 The game mechanics are pretty simple: you have a basketball and need to throw it at the basket to score a goal, and there is an energy bar that shows you how much force you are adding to your throw.
 
-There is a score mechanic that detects if you scored a goal which will increase it, but if you don't score a goal and the ball falls in the ground, it is decreased. Every time you score a goal, the player's distance with the basket becomes bigger which makes the game more challenging.
+There is a score mechanic that detects if you scored a goal which will increase it, but if you don't score a goal and the ball falls in the ground, it is decreased.
+Every time you score a goal, the player's distance with the basket becomes bigger which makes the game more challenging.
 
 # User Interface:
 
