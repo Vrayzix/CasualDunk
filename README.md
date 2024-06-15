@@ -27,3 +27,8 @@ Having a good UI is important for the player to have an enjoyable experience whi
 
 # Conclusion:
 Currently, I like the state of the game, but there are still many new contents I will add in the future.
+
+# Credits:
+-Basketball Court Map By https://sketchfab.com/stew004
+
+-Basketball Model By https://sketchfab.com/thesidekick
